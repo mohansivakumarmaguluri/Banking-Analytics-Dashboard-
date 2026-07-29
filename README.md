@@ -178,7 +178,7 @@ Analyzes loans based on income band, risk weighting, nationality, bank relations
 
 ### Overview
 
-![Banking Dashboard Overview](images/Overview.png)
+
 
 ### Deposit Analysis
 
